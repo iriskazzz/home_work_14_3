@@ -6,6 +6,6 @@ public class ShowText {
 
   @Test
   void firstCheck () {
-    System.out.println("Hello world!");
+    System.out.println("Hello Irina!");
   }
 }
